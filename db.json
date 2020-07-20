@@ -12,5 +12,12 @@
     "id": 2,
     "streetname": "Boreelkazerne",
     "name": "Boreelkazerne 41"
+  },
+  {
+    "city": "Zutphen",
+    "housenumber": 12,
+    "id": 3,
+    "streetname": "Isendoornstraat",
+    "name": "Isendoornstraat 12"
   }
 ]
