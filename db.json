@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Deventer",
+    "housenumber": 136,
+    "id": 1,
+    "streetname": "Diepenveenseweg",
+    "name": "Diepenveenseweg 136"
+  },
+  {
+    "city": "Deventer",
+    "housenumber": 41,
+    "id": 2,
+    "streetname": "Boreelkazerne",
+    "name": "Boreelkazerne 41"
+  }
+]
