@@ -1,23 +1,10 @@
-[
-  {
-    "city": "Deventer",
-    "housenumber": 136,
-    "id": 1,
-    "streetname": "Diepenveenseweg",
-    "name": "Diepenveenseweg 136"
-  },
-  {
-    "city": "Deventer",
-    "housenumber": 41,
-    "id": 2,
-    "streetname": "Boreelkazerne",
-    "name": "Boreelkazerne 41"
-  },
-  {
-    "city": "Zutphen",
-    "housenumber": 12,
-    "id": 3,
-    "streetname": "Isendoornstraat",
-    "name": "Isendoornstraat 12"
-  }
-]
+{
+  "properties": [
+  { "id": 1, "title": "Diepenveenseweg 136", "streetname": "Diepenveenseweg", "housenumber": "136", "city": "Deventer" },
+  { "id": 2, "title": "Boreelkazerne 41", "streetname": "Boreelkazerne", "housenumber": "41", "city": "Deventer" },
+  { "id": 3, "title": "Isendoornstraat 12", "streetname": "Isendoornstraat", "housenumber": "12", "city": "Zutphen" }
+  ],
+  "apartments": [
+  { "id": 1, "propertyID": 1, "housenumber": "K", "squaremeters": "55"}
+  ]
+}
