@@ -5,6 +5,8 @@
   { "id": 3, "title": "Isendoornstraat 12", "streetname": "Isendoornstraat", "housenumber": "12", "city": "Zutphen" }
   ],
   "apartments": [
-  { "id": 1, "propertyID": 1, "housenumber": "K", "squaremeters": "55"}
+  { "id": 1, "propertyID": 1, "housenumber": "K", "squaremeters": "55"},
+  { "id": 2, "propertyID": 1, "housenumber": "H", "squaremeters": "52"},
+  { "id": 3, "propertyID": 2, "housenumber": "A", "squaremeters": "50"}
   ]
 }
